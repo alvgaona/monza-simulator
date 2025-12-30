@@ -1,5 +1,7 @@
 # Monza Simulator
 
+https://github.com/user-attachments/assets/eb0ec40e-64b0-44ca-83da-6cea9aa8c444
+
 This project attempts to model the physics of the Monza (Euromatic S.A 1979) mechanical game to ultimately try a variety of control strategies.
 This platform serves as a good underactuated nonlinear system to benchmark controllers capable of winning the game.
 
